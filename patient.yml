@@ -3,5 +3,5 @@ server:
 
 app:
     service:
-      name: Eureka Client Example
+      name: Eureka Client Changed
 
